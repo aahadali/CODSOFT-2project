@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046513744026",
+    "project_id": "attendance-app-fb889",
+    "storage_bucket": "attendance-app-fb889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046513744026:android:8aefdf48b0c9ec3ed08723",
+        "android_client_info": {
+          "package_name": "com.example.university_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qELl9aECmQKayzIjO7y1tb7YconAbzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046513744026:android:4f3cd734b6d2832bd08723",
+        "android_client_info": {
+          "package_name": "com.example.university_attendance_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5qELl9aECmQKayzIjO7y1tb7YconAbzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

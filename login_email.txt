@@ -1,0 +1,6 @@
+teacher login aahad@gmail.com
+password 1234567
+student login student1@gmail.com
+password 1234567
+
+can create new student as well.

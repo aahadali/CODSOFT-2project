@@ -1,0 +1,3 @@
+Instructor login = aahad@gmail.com
+Instructor Password = 1234567
+// can only access Instructor page through this email else will be transferred to Student Page
